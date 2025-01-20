@@ -1,0 +1,11 @@
+C:\bit-academy\c#_OOP\blackjack\The-Game-b3d30d7b85c5-5349999df3dc\BlackJack\bin\Debug\net8.0\BlackJack.deps.json
+C:\bit-academy\c#_OOP\blackjack\The-Game-b3d30d7b85c5-5349999df3dc\BlackJack\bin\Debug\net8.0\BlackJack.dll
+C:\bit-academy\c#_OOP\blackjack\The-Game-b3d30d7b85c5-5349999df3dc\BlackJack\bin\Debug\net8.0\BlackJack.pdb
+C:\bit-academy\c#_OOP\blackjack\The-Game-b3d30d7b85c5-5349999df3dc\BlackJack\obj\Debug\net8.0\BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+C:\bit-academy\c#_OOP\blackjack\The-Game-b3d30d7b85c5-5349999df3dc\BlackJack\obj\Debug\net8.0\BlackJack.AssemblyInfoInputs.cache
+C:\bit-academy\c#_OOP\blackjack\The-Game-b3d30d7b85c5-5349999df3dc\BlackJack\obj\Debug\net8.0\BlackJack.AssemblyInfo.cs
+C:\bit-academy\c#_OOP\blackjack\The-Game-b3d30d7b85c5-5349999df3dc\BlackJack\obj\Debug\net8.0\BlackJack.csproj.CoreCompileInputs.cache
+C:\bit-academy\c#_OOP\blackjack\The-Game-b3d30d7b85c5-5349999df3dc\BlackJack\obj\Debug\net8.0\BlackJack.dll
+C:\bit-academy\c#_OOP\blackjack\The-Game-b3d30d7b85c5-5349999df3dc\BlackJack\obj\Debug\net8.0\refint\BlackJack.dll
+C:\bit-academy\c#_OOP\blackjack\The-Game-b3d30d7b85c5-5349999df3dc\BlackJack\obj\Debug\net8.0\BlackJack.pdb
+C:\bit-academy\c#_OOP\blackjack\The-Game-b3d30d7b85c5-5349999df3dc\BlackJack\obj\Debug\net8.0\ref\BlackJack.dll
